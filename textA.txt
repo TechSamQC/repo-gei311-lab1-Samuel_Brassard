@@ -1,1 +1,1 @@
-"labo 1, gestion de version, Samuel_Brassard" 
+labo 1, gestion de version, Samuel_Brassard
